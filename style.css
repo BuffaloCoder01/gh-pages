@@ -1,0 +1,74 @@
+body {
+
+  background-color: rgba(92, 129, 156, 1.0);
+	
+}
+
+
+
+h1{
+
+ font-family: 'Oldenburg', cursive;
+ text-align: center;
+ text-height: 2em;
+}
+
+header{
+
+text-align: center;
+
+
+}
+
+h2{
+
+font-family: 'Allura', cursive;
+text-align: center;
+font-size: 2.7em;
+font-weight: bold;
+
+}
+#footer {
+   
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+
+
+
+
+.menu{
+
+font-family: 'Indie Flower', cursive;
+text-align: center;
+font-size:  3em;
+
+}
+
+
+
+ 
+
+
+.main{
+
+height: 600px;
+background-image: url("images/glass.jpg");
+background-repeat: no-repeat;
+text-alignment: right;
+background-size: 100%;
+
+}
+
+p{
+
+font-size: 1.8em;
+
+}
+
+
+
+
